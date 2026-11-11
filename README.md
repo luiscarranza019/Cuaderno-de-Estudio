@@ -4,7 +4,6 @@
 
 # UNIVERSIDAD NACIONAL DE LOJA
 ### Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
-### Carrera de Computación
 
 </div>
 
