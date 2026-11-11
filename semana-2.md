@@ -3,6 +3,7 @@
 # 📗 Semana 2: Álgebra de Boole y Formas Canónicas
 
 
+
 ## 🎯 Mi Objetivo de Aprendizaje en esta Semana
 
 Durante la segunda semana dimos un salto fundamental: aprendimos un método ordenado y matemático para pasar desde un **problema escrito en palabras (enunciado)** hasta una **tabla de verdad**, extraer su **expresión algebraica exacta (forma canónica)** y finalmente **simplificarla** para construir un circuito que utilice la menor cantidad posible de chips físicos.
