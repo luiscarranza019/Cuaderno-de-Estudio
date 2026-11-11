@@ -158,11 +158,15 @@ A continuación desarrollo paso a paso los tres ejercicios planteados en la Acti
 2. **Comprobación por pesos:** $32 + 0 + 8 + 4 + 0 + 1 = 45$ ✓.
 3. **Conversión a hexadecimal:** Agrupo `101101` de 4 en 4 desde la derecha rellenando con dos ceros a la izquierda: `0010` ($2$) y `1101` ($13 = \text{D}$). Por lo tanto, **$45_{10} = 2\text{D}_{16}$**.
 
+---
+
 ### Ejercicio 2: Convertir $\text{A}7_{16}$ a decimal
 1. **Método directo por potencias de 16:**
    * Sabemos que $\text{A} = 10$ (en la posición $16^1 = 16$) y $7 = 7$ (en la posición $16^0 = 1$).
    * $\text{A}7_{16} = (10 \times 16) + (7 \times 1) = 160 + 7 = \mathbf{167_{10}}$.
 2. **Comprobación pasando por binario:** $\text{A} = 1010_2$ y $7 = 0111_2 \rightarrow 10100111_2 = 128 + 32 + 4 + 2 + 1 = 167_{10}$ ✓.
+
+---
 
 ### Ejercicio 3: Convertir $11100101_2$ a hexadecimal y a octal
 1. **A hexadecimal (grupos de 4 bits desde la derecha):**
