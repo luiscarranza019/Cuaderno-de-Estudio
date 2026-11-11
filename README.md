@@ -11,7 +11,6 @@
 
 ## ⚡ Cuaderno Digital: Diseño de Circuitos
 > **Unidad 1:** Análisis de lógica combinacional con diseño clásico  
-> **Período Académico:** Septiembre 2026 – Marzo 2027
 
 ---
 
@@ -81,16 +80,20 @@
 
 ### 🔹 Conclusiones por Semana (Unidad 1)
 
-* **Semana 1 (Sistemas Numéricos y Compuertas):** Comprendí que las señales digitales no son valores matemáticos exactos sino rangos de voltaje protegidos por márgenes de ruido en la familia 74LS. Asimismo, asimilé el valor del complemento a dos, el cual permite ejecutar sustracciones reutilizando la arquitectura de un sumador.
-* **Semana 2 (Álgebra de Boole y Formas Canónicas):** Verifiqué que la tabla de verdad constituye la especificación inequívoca de un diseño. El dominio de los teoremas de Boole, las leyes de De Morgan y las formas canónicas (SOP y POS) demostró que la simplificación analítica reduce de forma directa la cantidad de circuitos integrados físicos en el montaje.
-* **Semana 3 (Mapas de Karnaugh, Indiferentes y NAND/NOR):** El método visual de Karnaugh, fundamentado en la adyacencia del código Gray, garantiza la obtención de expresiones mínimas evitando términos redundantes. Además, la incorporación de condiciones indiferentes (*Don't Care*) y la universalidad de las compuertas NAND/NOR optimizan costos al permitir implementar cualquier lógica con una única familia de componentes.
-* **Semana 4 (Circuitos Aritméticos y ALU):** Integré los bloques combinacionales para dar respuesta al procesamiento aritmético binario. Mediante el semisumador, el sumador completo en cascada (*Ripple Carry*), la detección de desbordamiento ($V = C_3 \oplus C_4$) y la conmutación suma/resta con inversores XOR, establecí las bases estructurales que conforman la Unidad Aritmético-Lógica (ALU) de un procesador.
+* **Semana 1 (Sistemas Numéricos y Compuertas):**
+  Comprendí que las señales digitales no son valores matemáticos exactos sino rangos de voltaje protegidos por márgenes de ruido en la familia 74LS. Asimismo, asimilé el      valor del complemento a dos, el cual permite ejecutar sustracciones reutilizando la arquitectura de un sumador.
+* **Semana 2 (Álgebra de Boole y Formas Canónicas):**
+  Verifiqué que la tabla de verdad constituye la especificación inequívoca de un diseño. El dominio de los teoremas de Boole, las leyes de De Morgan y las formas canónicas    (SOP y POS) demostró que la simplificación analítica reduce de forma directa la cantidad de circuitos integrados físicos en el montaje.
+* **Semana 3 (Mapas de Karnaugh, Indiferentes y NAND/NOR):**
+  El método visual de Karnaugh, fundamentado en la adyacencia del código Gray, garantiza la obtención de expresiones mínimas evitando términos redundantes. Además, la         incorporación de condiciones indiferentes (*Don't Care*) y la universalidad de las compuertas NAND/NOR optimizan costos al permitir implementar cualquier lógica con una     única familia de componentes.
+* **Semana 4 (Circuitos Aritméticos y ALU):**
+  Integré los bloques combinacionales para dar respuesta al procesamiento aritmético binario. Mediante el semisumador, el sumador completo en cascada (*Ripple Carry*), la     detección de desbordamiento ($V = C_3 \oplus C_4$) y la conmutación suma/resta con inversores XOR, establecí las bases estructurales que conforman la Unidad Aritmético-     Lógica (ALU) de un procesador.
 
 ---
 
 ### 🎓 Conclusión General de la Unidad 1
 
-> El recorrido por esta primera unidad me permitió consolidar una visión integral del diseño digital clásico: todo sistema computacional complejo se fundamenta en decisiones lógicas elementales gobernadas por leyes algebraicas rigurosas. La transición metodológica desde el enunciado verbal hacia la tabla de verdad, su reducción óptima mediante mapas de Karnaugh y su posterior implementación en compuertas universales o bloques modulares aritméticos evidencia que el diseño digital busca permanentemente el equilibrio entre simplicidad matemática, costo de hardware, velocidad de propagación y confiabilidad operativa.
+> El recorrido por esta primera unidad me permitió consolidar una visión integral del diseño digital clásico: todo sistema computacional complejo se fundamenta en             decisiones lógicas elementales gobernadas por leyes algebraicas rigurosas. La transición metodológica desde el enunciado verbal hacia la tabla de verdad, su reducción       óptima mediante mapas de Karnaugh y su posterior implementación en compuertas universales o bloques modulares aritméticos evidencia que el diseño digital busca              permanentemente el equilibrio entre simplicidad matemática, costo de hardware, velocidad de propagación y confiabilidad operativa.
 
 ---
 
