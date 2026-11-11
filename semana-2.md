@@ -2,7 +2,7 @@
 
 # 📗 Semana 2: Álgebra de Boole y Formas Canónicas
 
-
+---
 
 ## 🎯 Mi Objetivo de Aprendizaje en esta Semana
 
