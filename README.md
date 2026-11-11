@@ -87,5 +87,5 @@
 
 ---
 
-| 🏠 Inicio | [Comenzar: Semana 1 ➡️](./semana-1.md) |
+| 🏠 Inicio | [Comenzar: Semana 1 ➡️](semana-1.md) |
 | :--- | ---: |
