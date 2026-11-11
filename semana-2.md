@@ -1,8 +1,3 @@
-&lt;div align=&quot;center&quot;&gt;
-
-&lt;kbd&gt;[🏠 Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[⬅️ Anterior: Semana 1](https://www.google.com/search?q=./semana-1.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📘 Semana 1](https://www.google.com/search?q=./semana-1.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;📍 **Semana 2**&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📙 Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📕 Semana 4](https://www.google.com/search?q=./semana-4.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[➡️ Siguiente: Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt;
-
-&lt;/div&gt;
 
 ---
 
@@ -389,8 +384,5 @@ Como parte del contenido de guía de este cuaderno, resuelvo a continuación los
 
 ---
 
-&lt;div align=&quot;center&quot;&gt;
-
-&lt;kbd&gt;[🏠 Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[⬅️ Anterior: Semana 1](https://www.google.com/search?q=./semana-1.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📘 Semana 1](https://www.google.com/search?q=./semana-1.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;📍 **Semana 2**&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📙 Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📕 Semana 4](https://www.google.com/search?q=./semana-4.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[➡️ Siguiente: Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt;
-
-&lt;/div&gt;
+| [⬅️ Semana 1](semana-1.md) | [Semana 3 ➡️](semana-3.md) |
+| :--- | ---: |
