@@ -45,10 +45,10 @@
 
 | Semana | Eje Temático | Contenidos Principales | Acceso |
 | :---: | :--- | :--- | :---: |
-| **01** | **Sistemas Numéricos, Códigos y Compuertas** | Niveles de voltaje en 74LS, margen de ruido, conversiones (Bin/Oct/Hex), complemento a dos, desbordamiento, códigos BCD, Gray, ASCII, las 7 compuertas lógicas y chip 74LS08. | **[Semana 1 ➔](./semana-1.md)** |
-| **02** | **Álgebra de Boole y Formas Canónicas** | Equivalencia circuito-expresión, postulados de Huntington, principio de dualidad, teoremas booleanos, leyes de De Morgan, minitérminos ($m_i$), maxitérminos ($M_i$), SOP, POS y costo en CI. | **[Semana 2 ➔](./semana-2.md)** |
-| **03** | **Mapas de Karnaugh, Indiferentes y NAND/NOR** | Adyacencia y orden Gray, mapas de 3 y 4 variables, implicantes primos esenciales, condiciones indiferentes (*don't care* `X`), redes universales NAND/NOR y proyecto Basys 3. | **[Semana 3 ➔](./semana-3.md)** |
-| **04** | **Circuitos Aritméticos y Arquitectura ALU** | Suma por columnas, diseño de semisumador y sumador completo, sumador en cascada de 4 bits (*ripple carry*), retardo de propagación, resta con XOR, detección de *overflow* y comparador. | **[Semana 4 ➔](./semana-4.md)** |
+| **01** | **Sistemas Numéricos, Códigos y Compuertas** | Niveles de voltaje en 74LS, margen de ruido, conversiones (Bin/Oct/Hex), complemento a dos, desbordamiento, códigos BCD, Gray, ASCII, las 7 compuertas lógicas y chip 74LS08. | **[Semana 1 ➔](semana-1.md)** |
+| **02** | **Álgebra de Boole y Formas Canónicas** | Equivalencia circuito-expresión, postulados de Huntington, principio de dualidad, teoremas booleanos, leyes de De Morgan, minitérminos ($m_i$), maxitérminos ($M_i$), SOP, POS y costo en CI. | **[Semana 2 ➔](semana-2.md)** |
+| **03** | **Mapas de Karnaugh, Indiferentes y NAND/NOR** | Adyacencia y orden Gray, mapas de 3 y 4 variables, implicantes primos esenciales, condiciones indiferentes (*don't care* `X`), redes universales NAND/NOR y proyecto Basys 3. | **[Semana 3 ➔](semana-3.md)** |
+| **04** | **Circuitos Aritméticos y Arquitectura ALU** | Suma por columnas, diseño de semisumador y sumador completo, sumador en cascada de 4 bits (*ripple carry*), retardo de propagación, resta con XOR, detección de *overflow* y comparador. | **[Semana 4 ➔](semana-4.md)** |
 
 ---
 
