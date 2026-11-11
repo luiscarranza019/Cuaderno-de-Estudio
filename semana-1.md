@@ -199,8 +199,8 @@ La suma en binario funciona exactamente igual que la suma decimal que aprendimos
           1   0   0   0   1   (17 en decimal: 16 + 1 = 17 ✓)
 ```
 
-### 5.2. ¿Cómo representamos números negativos si el circuito no tiene signo «$-$»?
-En el hardware solo existen ceros y unos; no podemos guardar un símbolo «$-$» aparte sin complicar los circuitos sumadores. Para solucionarlo, utilizamos la misma lógica de un **cuentakilómetros mecánico**: si el marcador está en `000` y retrocedemos un kilómetro, pasa a mostrar `999`.
+### 5.2. ¿Cómo representamos números negativos si el circuito no tiene signo «-»?
+En el hardware solo existen ceros y unos; no podemos guardar un símbolo «-» aparte sin complicar los circuitos sumadores. Para solucionarlo, utilizamos la misma lógica de un **cuentakilómetros mecánico**: si el marcador está en `000` y retrocedemos un kilómetro, pasa a mostrar `999`.
 
 En binario de 4 bits ocurre exactamente igual: si a `0000` le restamos `1`, retrocedemos a `1111`. Así nace el acuerdo llamado **Complemento a Dos**:
 * Si el **bit más a la izquierda (bit de signo) es `0`**, el número es **positivo** (o cero).
