@@ -3,6 +3,7 @@
 
 # 📘 Semana 1: Sistemas Numéricos, Códigos y Compuertas Lógicas
 
+
 ## 🎯 Mi Objetivo de Aprendizaje en esta Semana
 
 En esta primera semana mi propósito fue comprender las bases físicas y matemáticas sobre las que funciona cualquier computador moderno. Antes de diseñar circuitos complejos, necesité responder una pregunta fundamental: **¿cómo logra una máquina electrónica representar números, signos negativos, letras y decisiones lógicas utilizando únicamente electricidad?**
