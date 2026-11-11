@@ -6,9 +6,8 @@
 
 ### 🧭 Navegación del Cuaderno
 
-| 🏠 Inicio | ➡️ Siguiente Paso |
-| :---: | :---: |
-| **Estás en la Portada** | **[Comenzar: Semana 1 ➔](https://www.google.com/search?q=./semana-1.md)** |
+| [⬅️ Anterior: Semana 1](./semana-1.md) | [Siguiente: Semana 3 ➡️](./semana-3.md) |
+| :--- | ---: |
 
 ---
 
