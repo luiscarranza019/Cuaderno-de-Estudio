@@ -207,5 +207,5 @@ En 4 bits con signo el rango es de -8 a +7. Ocurre overflow si el acarreo que en
 
 ---
 
-| [⬅️ Semana 3](semana-3.md) | 🏠 [ Portada](README.md) |
+| [⬅️ Semana 3](semana-3.md) | 🏠 [ Inicio](README.md) |
 | :--- | ---: |
