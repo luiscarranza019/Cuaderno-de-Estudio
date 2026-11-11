@@ -1,26 +1,30 @@
-# ⚡ Cuaderno Digital: Diseño de Circuitos
-> **Universidad Nacional de Loja** · Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
-> **Carrera de Computación** · Segundo Ciclo «A» · Período Septiembre 2026 – Marzo 2027
-
----
-
-### 🧭 Navegación del Cuaderno
-
-| [⬅️ Anterior: Semana 1](./semana-1.md) | [Siguiente: Semana 3 ➡️](./semana-3.md) |
+| 🏠 Inicio | [Comenzar: Semana 1 ➡️](./semana-1.md) |
 | :--- | ---: |
 
 ---
 
-## 🏛️ Ficha Académica
+# UNIVERSIDAD NACIONAL DE LOJA
+### Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
+#### Carrera de Computación · Segundo Ciclo «A»
 
-| Parámetro | Detalle Institucional |
+---
+
+## ⚡ Cuaderno Digital: Diseño de Circuitos
+> **Unidad 1:** Análisis de lógica combinacional con diseño clásico  
+> **Período Académico:** Septiembre 2026 – Marzo 2027
+
+---
+
+## 🏛️ Ficha Técnica Institucional
+
+| Parámetro | Detalle Académico |
 | :--- | :--- |
 | **Institución** | Universidad Nacional de Loja (UNL) |
-| **Carrera** | Computación (Modalidad Presencial) |
+| **Facultad** | Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables |
+| **Carrera** | Carrera de Computación |
 | **Ciclo y Paralelo** | Segundo Ciclo «A» |
 | **Asignatura** | Diseño de Circuitos |
-| **Unidad Temática** | Unidad 1 · Análisis de lógica combinacional con diseño clásico |
-| **Docente** | Ing. Luis Darío Shinche Cueva, Mg. |
+| **Docente de Cátedra** | Ing. Luis Darío Shinche Cueva, Mg. |
 | **Estudiante / Autor** | **Luis Anderson Carranza Quispe** |
 | **Resultado de Aprendizaje (R1)** | Diseña e implementa circuitos combinacionales básicos utilizando técnicas de diseño clásico. |
 
@@ -31,7 +35,7 @@
 > Este cuaderno recopila y profundiza los aprendizajes de las primeras cuatro semanas de clase, redactado en **primera persona** con un enfoque deductivo: desde el comportamiento físico de los voltajes y el ruido eléctrico hasta la formulación matemática y el diseño de la **Unidad Aritmético-Lógica (ALU)**.
 
 ### 🎯 Enfoque Metodológico
-* **Rigor y claridad:** Conceptos formales explicados de forma intuitiva y aplicada.
+* **Rigor y claridad:** Conceptos formales explicados de forma intuitiva, estructurada y aplicada.
 * **Resolución íntegra:** Procedimientos detallados de todos los retos, talleres guiados y tickets de salida.
 * **Proyección a hardware:** Conexión constante con simulación en **Logisim-evolution**, circuitos integrados **TTL 74LS** y la tarjeta FPGA **Digilent Basys 3**.
 
@@ -41,10 +45,10 @@
 
 | Semana | Eje Temático | Contenidos Principales | Acceso |
 | :---: | :--- | :--- | :---: |
-| **01** | **Sistemas Numéricos, Códigos y Compuertas** | Niveles de voltaje en 74LS, margen de ruido, conversiones (Bin/Oct/Hex), complemento a dos, desbordamiento, códigos BCD, Gray, ASCII, las 7 compuertas lógicas y chip 74LS08. | **[Semana 1 ➔](https://www.google.com/search?q=./semana-1.md)** |
-| **02** | **Álgebra de Boole y Formas Canónicas** | Equivalencia circuito-expresión, postulados de Huntington, principio de dualidad, teoremas booleanos, leyes de De Morgan, minitérminos ($m_i$), maxitérminos ($M_i$), SOP, POS y costo en CI. | **[Semana 2 ➔](https://www.google.com/search?q=./semana-2.md)** |
-| **03** | **Mapas de Karnaugh, Indiferentes y NAND/NOR** | Adyacencia y orden Gray, mapas de 3 y 4 variables, implicantes primos esenciales, condiciones indiferentes (*don't care* `X`), redes universales NAND/NOR y proyecto Basys 3. | **[Semana 3 ➔](https://www.google.com/search?q=./semana-3.md)** |
-| **04** | **Circuitos Aritméticos y Arquitectura ALU** | Suma por columnas, diseño de semisumador y sumador completo, sumador en cascada de 4 bits (*ripple carry*), retardo de propagación, resta con XOR, detección de *overflow* y comparador. | **[Semana 4 ➔](https://www.google.com/search?q=./semana-4.md)** |
+| **01** | **Sistemas Numéricos, Códigos y Compuertas** | Niveles de voltaje en 74LS, margen de ruido, conversiones (Bin/Oct/Hex), complemento a dos, desbordamiento, códigos BCD, Gray, ASCII, las 7 compuertas lógicas y chip 74LS08. | **[Semana 1 ➔](./semana-1.md)** |
+| **02** | **Álgebra de Boole y Formas Canónicas** | Equivalencia circuito-expresión, postulados de Huntington, principio de dualidad, teoremas booleanos, leyes de De Morgan, minitérminos ($m_i$), maxitérminos ($M_i$), SOP, POS y costo en CI. | **[Semana 2 ➔](./semana-2.md)** |
+| **03** | **Mapas de Karnaugh, Indiferentes y NAND/NOR** | Adyacencia y orden Gray, mapas de 3 y 4 variables, implicantes primos esenciales, condiciones indiferentes (*don't care* `X`), redes universales NAND/NOR y proyecto Basys 3. | **[Semana 3 ➔](./semana-3.md)** |
+| **04** | **Circuitos Aritméticos y Arquitectura ALU** | Suma por columnas, diseño de semisumador y sumador completo, sumador en cascada de 4 bits (*ripple carry*), retardo de propagación, resta con XOR, detección de *overflow* y comparador. | **[Semana 4 ➔](./semana-4.md)** |
 
 ---
 
@@ -83,6 +87,5 @@
 
 ---
 
-| 🏠 Inicio | ➡️ Siguiente Paso |
-| :---: | :---: |
-| **Estás en la Portada** | **[Comenzar: Semana 1 ➔](https://www.google.com/search?q=./semana-1.md)** |
+| 🏠 Inicio | [Comenzar: Semana 1 ➡️](./semana-1.md) |
+| :--- | ---: |
