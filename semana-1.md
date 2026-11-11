@@ -1,8 +1,5 @@
-&lt;div align=&quot;center&quot;&gt;
-
-&lt;kbd&gt;[🏠 Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[⬅️ Anterior: Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;📍 **Semana 1**&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📗 Semana 2](https://www.google.com/search?q=./semana-2.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📙 Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📕 Semana 4](https://www.google.com/search?q=./semana-4.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[➡️ Siguiente: Semana 2](https://www.google.com/search?q=./semana-2.md)&lt;/kbd&gt;
-
-&lt;/div&gt;
+| 🏠 [Portada Principal](./README.md) | [Siguiente: Semana 2 ➡️](./semana-2.md) |
+| :--- | ---: |
 
 ---
 
@@ -364,8 +361,5 @@ A continuación resuelvo de forma detallada el taller individual de cierre de la
 
 ---
 
-&lt;div align=&quot;center&quot;&gt;
-
-&lt;kbd&gt;[🏠 Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[⬅️ Anterior: Portada](https://www.google.com/search?q=./README.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;📍 **Semana 1**&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📗 Semana 2](https://www.google.com/search?q=./semana-2.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📙 Semana 3](https://www.google.com/search?q=./semana-3.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[📕 Semana 4](https://www.google.com/search?q=./semana-4.md)&lt;/kbd&gt; &nbsp; &lt;kbd&gt;[➡️ Siguiente: Semana 2](https://www.google.com/search?q=./semana-2.md)&lt;/kbd&gt;
-
-&lt;/div&gt;
+| 🏠 [Portada Principal](./README.md) | [Siguiente: Semana 2 ➡️](./semana-2.md) |
+| :--- | ---: |
