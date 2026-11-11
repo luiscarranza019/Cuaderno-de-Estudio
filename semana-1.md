@@ -3,10 +3,6 @@
 
 # 📘 Semana 1: Sistemas Numéricos, Códigos y Compuertas Lógicas
 
-**Asignatura:** Diseño de Circuitos · **Unidad 1:** Análisis de lógica combinacional con diseño clásico  
-**Autor:** Luis Anderson Carranza Quispe · **Docente:** Ing. Luis Darío Shinche Cueva, Mg.  
-**Institución:** Universidad Nacional de Loja · Carrera de Computación · Segundo Ciclo
-
 ---
 
 ## 🎯 Mi Objetivo de Aprendizaje en esta Semana
