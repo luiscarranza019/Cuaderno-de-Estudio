@@ -1,5 +1,3 @@
-| 🏠 [Portada Principal](README.md) | [Siguiente: Semana 2 ➡️](semana-2.md) |
-| :--- | ---: |
 
 ---
 
@@ -361,5 +359,5 @@ A continuación resuelvo de forma detallada el taller individual de cierre de la
 
 ---
 
-| 🏠 [Portada Principal](README.md) | [Siguiente: Semana 2 ➡️](semana-2.md) |
+| 🏠 [Portada Principal](README.md) | [Semana 2 ➡️](semana-2.md) |
 | :--- | ---: |
