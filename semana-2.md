@@ -1,7 +1,7 @@
-
 ---
 
 # 📗 Semana 2: Álgebra de Boole y Formas Canónicas
+
 
 ---
 
